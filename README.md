@@ -11,9 +11,9 @@ It provides a fast, optimized WebView container for `https://beamio.app/app`, en
 ---
 
 ## 📸 Preview (Placeholder)
-> Replace the image below with real screenshots of your app if needed.
 
-![Preview Placeholder](https://via.placeholder.com/900x400?text=Beamio+Android+App+Preview)
+
+![Preview Placeholder](home.png)
 
 ---
 
